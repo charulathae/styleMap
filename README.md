@@ -6,9 +6,13 @@ The navigation is implemented using the HTML map tag, allowing seamless redirect
 ✨ Features:
 
 ✔️ Visual “choose your look” interface
+
 ✔️ Clickable image navigation
+
 ✔️ Smooth and simple user experience
+
 ✔️ Lightweight and fast loading
+
 ✔️ Responsive layout
 
 🛠️ Built With:
